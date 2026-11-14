@@ -64,5 +64,5 @@ def build_pdf(output_path):
     doc.build(story)
 
 if __name__ == '__main__':
-    build_pdf('assignment_solution.pdf')
-    print('PDF created: assignment_solution.pdf')
+    build_pdf('final_submission.pdf')
+    print('PDF created: final_submission.pdf')

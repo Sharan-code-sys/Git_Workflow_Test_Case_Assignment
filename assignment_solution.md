@@ -11,7 +11,7 @@ SDP/
 ├── .gitignore
 ├── about.html
 ├── assignment_solution.md
-├── assignment_solution.pdf
+├── final_submission.pdf
 ├── git_commands.txt
 ├── git_workflow_script.sh
 ├── index.html
